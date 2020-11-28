@@ -4,9 +4,9 @@ import numpy as np
 from ds import decorrstretch
 
 # get imput from user.
-infile = input("Enter file to process:")
-outfile = input("Enter output file:")
-tol_val = input("Enter tol value (optional):")
+infile = input("Enter file to process: ")
+outfile = input("Enter output file: ")
+tol_val = input("Enter tol value (optional): ")
 
 # If a value is given, convert to float.
 if tol_val:
