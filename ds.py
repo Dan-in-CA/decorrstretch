@@ -1,14 +1,14 @@
-import numpy as np
-import cv2
 
+import numpy as np
+from functools import reduce
 
 def decorrstretch(A, tol=None):
     """
     Apply decorrelation stretch to image
 
     Arguments:
-    A   -- image in cv2/numpy.array format
-    tol -- upper and lower limit of contrast stretching
+    A   -- original image as numpy.array.
+    tol -- specify a linear contrast stretch, e.g. tol = 0.01.
     """
 
     # save the original shape
