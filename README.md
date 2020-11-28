@@ -17,6 +17,6 @@ from the decorrstretch folder run
 
 Enter the name or path of the image file to be processed.  
 Enter a name or path + name of the output file to be saved.  
-Optionally enter a value for a linear stretch, e.g. 0.01,  
+Optionally enter a (tol) value for a linear stretch, e.g. 0.01,  
 
 The input and output file types can be different and most common file formats such as jpeg, png, etc. should work.
