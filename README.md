@@ -8,12 +8,12 @@ This fork of lbrabec/decorrstretch has been updated to run under **Python3**.
   
 A sinple commmand line utility named **process_image.py** has been added to make using ds.py easy.  
   
-## Requirements
+### Requirements
   **Python Pillow**, the Python Imaging Library, is **required**. It can be installed with:  
   `pip3 install Pillow` 
     
-  **Numpy** can also be installed with pip:
-  `pip install numpy~
+  **Numpy** can also be installed with pip:  
+  `pip3 install numpy`
   
 To use process_image:  
 from the decorrstretch folder run    
