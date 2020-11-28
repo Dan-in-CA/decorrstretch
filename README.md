@@ -9,10 +9,10 @@ This fork of **ds.py** has been updated to run under **Python3**.
 A simple commmand line utility named **process_image.py** has been added to make using ds.py easy.  
   
 ### Requirements
-  **Python Pillow**, the Python Imaging Library, is **required**. It can be installed with:  
+ * **Python Pillow**, the Python Imaging Library, is **required**. It can be installed with:  
   `pip3 install Pillow` 
     
-  **Numpy** can also be installed with pip:  
+*  **Numpy** can also be installed with pip:  
   `pip3 install numpy`
   
 To use the process_image utility:  
