@@ -8,7 +8,7 @@ def decorrstretch(A, tol=None):
 
     Arguments:
     A   -- original image as numpy.array.
-    tol -- specify a linear contrast stretch, e.g. tol = 0.01.
+    tol -- specify a linear contrast stretch, e.g. 0.01.
     """
 
     # save the original shape
