@@ -16,7 +16,7 @@ A simple commmand line utility named **process_image.py** has been added to make
   `pip3 install numpy`
   
 To use the process_image utility:  
-from the decorrstretch folder run    
+from the decorrstretch directory run    
 `python3 process_image.py`
 
 Enter the name or path of the image file to be processed.  
