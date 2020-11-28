@@ -15,7 +15,7 @@ To use process_image:
 from the decorrstretch folder run    
 `python3 process_image.py`
 
-Enter the name or path of the image file to process.  
+Enter the name or path of the image file to be processed.  
 Enter a name or path + name of the output file to be saved.  
 Optionally enter a value for a linear stretch, e.g. 0.01,  
 
