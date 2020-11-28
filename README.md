@@ -15,7 +15,7 @@ A sinple commmand line utility named **process_image.py** has been added to make
   **Numpy** can also be installed with pip:  
   `pip3 install numpy`
   
-To use process_image:  
+To use the process_image utility:  
 from the decorrstretch folder run    
 `python3 process_image.py`
 
