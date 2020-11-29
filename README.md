@@ -6,7 +6,7 @@ It produces exaggerated colors which can improve visual interpretation
   
 This fork of **ds.py** has been updated to run under **Python3**.  
   
-A simple commmand line utility named **process_image.py** has been added to make using ds.py easy.  
+A simple commmand line utility named **process_image.py** has been added to demonstrate the use of ds.py.  
   
 ### Requirements
 *  **Python Pillow**, the Python Imaging Library. It can be installed with:  
